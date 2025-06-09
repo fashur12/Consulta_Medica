@@ -111,8 +111,8 @@ npm run dev
 -ejs
 -nodejs
 ```
-
-### Intengrantes Del Grupo
+-----------------------------
+#### Intengrantes Del Grupo
 
 - Joaquin Benamo
 - Fausto Desch
