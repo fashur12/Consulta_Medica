@@ -32,7 +32,7 @@ Probamos las rutas principales con Postman para validar que el backend funcione 
 <imagen> explicacion
 
 
-## Endopint para **pacientes**
+## Endopint para **"Pacientes"**
 
 `GET /api/v1/pacientes`
 
@@ -51,7 +51,7 @@ Probamos las rutas principales con Postman para validar que el backend funcione 
 ![Imagen de WhatsApp 2025-06-08 a las 21 46 25_e83b86c8](https://github.com/user-attachments/assets/a19e058e-f271-4dd3-ac8c-3d6fea5bc59e) 
 
 
-## Endpoint para **turnos**
+## Endpoint para **"Turnos"**
 
 `GET /api/v1/turnos`
 
