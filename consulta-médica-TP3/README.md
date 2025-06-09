@@ -35,31 +35,31 @@ Probamos las rutas principales con Postman para validar que el backend funcione 
 ## Endopint para **pacientes**
 
 `GET /api/v1/pacientes`
-<imagen> explicacion
+![Imagen de WhatsApp 2025-06-08 a las 21 28 38_4bc36951](https://github.com/user-attachments/assets/1a6ff5d3-5ef2-4df9-9c6f-68d87ad3fb7c) 
 
 `DELETE /api/v1/paceintes/:id`
-<imagen> explicacion
+![Imagen de WhatsApp 2025-06-08 a las 21 49 43_5d660eaf](https://github.com/user-attachments/assets/d475cfc1-ef20-4c4f-b08e-81682ab011bb) 
 
 `PUT /api/v1/pacientes/:id`
-<imagen> explicacion
+![Imagen de WhatsApp 2025-06-08 a las 21 47 50_37833192](https://github.com/user-attachments/assets/0af45376-e4ff-417a-9c75-84634162981b) 
 
 `POST /api/v1/pacientes`
-<imagen> explicacion
+![Imagen de WhatsApp 2025-06-08 a las 21 46 25_e83b86c8](https://github.com/user-attachments/assets/a19e058e-f271-4dd3-ac8c-3d6fea5bc59e) 
 
 
 ## Endpoint para **turnos**
 
 `GET /api/v1/turnos`
-<imagen> explicacion
+![Imagen de WhatsApp 2025-06-08 a las 21 30 45_2bf131c5](https://github.com/user-attachments/assets/0cb94dcd-006e-469e-9a27-85109260b518) 
 
 `GET /api/v1/turnos/paciente/:idPaciente`
 <imagen> explicacion
 
 `DELETE /api/v1/turnos/:id`
-<imagen> explicacion
+![Imagen de WhatsApp 2025-06-08 a las 21 52 10_7e8569ad](https://github.com/user-attachments/assets/ec2d5ef2-0bc1-439c-9e7b-6be3ae07cc57) 
 
 `POST /api/v1/turnos`
-<imagen> explicacion
+![Imagen de WhatsApp 2025-06-08 a las 21 51 16_b8976915](https://github.com/user-attachments/assets/29867349-4619-4761-8673-01eedbb14f7f) 
 
 
 
