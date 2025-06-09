@@ -7,7 +7,28 @@
 - Autenticación: JWT
 - Validación de datos: Joi
 - Herramientas de testing de API: Postman
-- Base de datos: SQLite3 
+- Base de datos: SQLite3
+
+# Estructuras de las Carpetas
+
+```ruby
+└───src
+    ├───config
+    ├───controllers
+    │   ├───API
+    │   └───home
+    ├───middlewares
+    ├───models
+    │   └───sqlite
+    │       ├───config
+    │       │   └───db
+    │       └───entities
+    ├───public
+    ├───routes
+    ├───schemas
+    └───views
+        └───ejs
+```
 
 # Pruebas en Postman
 Probamos las rutas principales con Postman para validar que el backend funcione correctamente:
