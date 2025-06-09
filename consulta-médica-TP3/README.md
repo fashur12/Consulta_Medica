@@ -43,4 +43,24 @@ npm run dev
 ## Endpoint para obtener el token y conseguir el auth
 
 `GET /api/v1/login`
+<imagen> explicacion
+
+
+## Endopint para **pacientes**
+`GET /api/v1/pacientes`
+<imagen> explicacion
+
+``DELETE /api/v1/paceintes/:id`
+<imagen> explicacion
+
+`PUT /api/v1/pacientes/:id`
+<imagen> explicacion
+
+`POST /api/v1/pacientes`
+<imagen> explicacion
+
+## Endpoint para **turnos**
+`GET /api/v1/turnos`
+<imagen> explicacion
+
 
