@@ -9,7 +9,7 @@
 - Herramientas de testing de API: Postman
 - Base de datos: SQLite3 
 
-# 🧪 Pruebas en Postman
+# Pruebas en Postman
 Probamos las rutas principales con Postman para validar que el backend funcione correctamente:
 
 - Crear pacientes
