@@ -1,3 +1,9 @@
-# Proyecto: Clínica Salud (Node.js + React.js)
+# 🏥 Proyecto: Clínica Salud+ - Gestión de Turnos Médicos
 
-En este proyecto desarrollamos una aplicación web para la gestión de una clínica médica. Utilizamos Node.js para el backend, React.js para el frontend 
+## 🔧 Tecnologías utilizadas
+- Backend: Node.js + Express
+- Motor de plantillas: EJS
+- Autenticación: JWT
+- Validación de datos: Joi
+- Herramientas de testing de API: Postman
+- Base de datos: SQLite3 (la del repositorio original)
