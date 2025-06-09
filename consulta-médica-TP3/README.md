@@ -24,6 +24,7 @@ Probamos las rutas principales con Postman para validar que el backend funcione 
 ![Imagen de WhatsApp 2025-06-08 a las 19 57 03_790b3b66](https://github.com/user-attachments/assets/453259f3-c603-45c4-ad0e-a89a3de5d1c8)
 ![Imagen de WhatsApp 2025-06-08 a las 19 57 09_8fef34b1](https://github.com/user-attachments/assets/8cf5f4cc-e489-4347-9592-d233f26be266)
 
+----------------------------------
 # ENDPOINTS
 
 ## Endpoint para obtener el token y conseguir el auth
@@ -112,7 +113,7 @@ npm run dev
 -nodejs
 ```
 -----------------------------
-#### Intengrantes Del Grupo
+## Intengrantes Del Grupo:
 
 - Joaquin Benamo
 - Fausto Desch
