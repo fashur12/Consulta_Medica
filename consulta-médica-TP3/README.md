@@ -112,3 +112,9 @@ npm run dev
 -nodejs
 ```
 
+### Intengrantes Del Grupo
+
+- Joaquin Benamo
+- Fausto Desch
+- Franco Devaux
+- Eros Perrone
