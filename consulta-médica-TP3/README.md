@@ -50,12 +50,7 @@ Probamos las rutas principales con Postman para validar que el backend funcione 
 
 `GET /api/v1/turnos`
 
-
 ![Imagen de WhatsApp 2025-06-08 a las 21 30 45_2bf131c5](https://github.com/user-attachments/assets/0cb94dcd-006e-469e-9a27-85109260b518) 
-
-`GET /api/v1/turnos/paciente/:idPaciente`
-
-<imagen> explicacion
 
 `DELETE /api/v1/turnos/:id`
 
@@ -64,7 +59,6 @@ Probamos las rutas principales con Postman para validar que el backend funcione 
 `POST /api/v1/turnos`
 
 ![Imagen de WhatsApp 2025-06-08 a las 21 51 16_b8976915](https://github.com/user-attachments/assets/29867349-4619-4761-8673-01eedbb14f7f) 
-
 
 
 # INSTALACIÓN DEL PROYECTO
