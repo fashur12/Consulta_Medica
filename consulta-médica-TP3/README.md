@@ -25,13 +25,7 @@ Probamos las rutas principales con Postman para validar que el backend funcione 
 ![Imagen de WhatsApp 2025-06-08 a las 19 57 09_8fef34b1](https://github.com/user-attachments/assets/8cf5f4cc-e489-4347-9592-d233f26be266)
 
 ----------------------------------
-# ENDPOINTS
-
-## Endpoint para obtener el token y conseguir el auth
-
-`GET /api/v1/login`
-<imagen> explicacion
-
+# ENDPOINTS :
 
 ## Endopint para **"Pacientes"**
 
