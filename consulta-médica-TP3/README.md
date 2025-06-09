@@ -33,6 +33,7 @@ Probamos las rutas principales con Postman para validar que el backend funcione 
 
 
 ## Endopint para **pacientes**
+
 `GET /api/v1/pacientes`
 <imagen> explicacion
 
@@ -45,9 +46,22 @@ Probamos las rutas principales con Postman para validar que el backend funcione 
 `POST /api/v1/pacientes`
 <imagen> explicacion
 
+
 ## Endpoint para **turnos**
+
 `GET /api/v1/turnos`
 <imagen> explicacion
+
+`GET /api/v1/turnos/paciente/:idPaciente`
+<imagen> explicacion
+
+`DELETE /api/v1/turnos/:id`
+<imagen> explicacion
+
+`POST /api/v1/turnos`
+<imagen> explicacion
+
+
 
 # INSTALACIÓN DEL PROYECTO
 
