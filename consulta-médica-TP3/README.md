@@ -38,3 +38,9 @@ nmp install
 npm run dev
 ```
 
+# ENDPOINTS
+
+## Endpoint para obtener el token y conseguir el auth
+
+`GET /api/v1/login`
+
