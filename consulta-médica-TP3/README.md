@@ -55,12 +55,13 @@ git clone https://github.com/santozzi/practico3progra3
 
 2.Instalar
 
-```js
+```ruby
 node https://nodejs.org/es
 ```
+
 3. Instalar sus dependencias
 
-```js
+```ruby
 npm install
 npm install Morgan
 npm install joi
@@ -69,9 +70,9 @@ npm install sqlite3
 npm install dotenv
 ```
 
-3. Iniciar el proyecto
+4. Iniciar el proyecto
 
-```js
+```ruby
 npm run dev
 ```
 
