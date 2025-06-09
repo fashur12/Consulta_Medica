@@ -50,7 +50,7 @@ npm run dev
 `GET /api/v1/pacientes`
 <imagen> explicacion
 
-``DELETE /api/v1/paceintes/:id`
+`DELETE /api/v1/paceintes/:id`
 <imagen> explicacion
 
 `PUT /api/v1/pacientes/:id`
