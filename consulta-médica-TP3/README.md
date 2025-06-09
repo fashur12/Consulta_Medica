@@ -67,7 +67,6 @@ node https://nodejs.org/es
 
 ```ruby
 npm install
-npm install Morgan
 npm install joi
 npm i jasonwebtoken
 npm install sqlite3
