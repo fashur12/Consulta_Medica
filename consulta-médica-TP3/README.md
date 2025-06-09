@@ -18,6 +18,8 @@ Probamos las rutas principales con Postman para validar que el backend funcione 
 - Consultar turnos por paciente
 - Cancelar turnos
 
+# ORGANIZACION DE LAS VISTAS
+
 # ENDPOINTS
 
 ## Endpoint para obtener el token y conseguir el auth
@@ -48,20 +50,28 @@ Probamos las rutas principales con Postman para validar que el backend funcione 
 1. Lo primero seria clonar el repo
 
 ```js
-git clone ...................
+git clone https://github.com/santozzi/practico3progra3
 ```
 
-2. Instalar sus dependencias
+2.Instalar
 
 ```js
-nmp install
+node https://nodejs.org/es
+```
+3. Instalar sus dependencias
+
+```js
+npm install
+npm install Morgan
+npm install joi
+npm i jasonwebtoken
+npm install sqlite3
+npm install dotenv
 ```
 
 3. Iniciar el proyecto
 
 ```js
-gfhg
+npm run dev
 ```
-
-
 
