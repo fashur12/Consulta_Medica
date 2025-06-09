@@ -68,7 +68,7 @@ Probamos las rutas principales con Postman para validar que el backend funcione 
 1. Lo primero seria clonar el repo
 
 ```js
-git clone https://github.com/santozzi/practico3progra3
+git clone 
 ```
 
 2.Instalar
