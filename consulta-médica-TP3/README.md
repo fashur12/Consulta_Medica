@@ -18,7 +18,7 @@ Probamos las rutas principales con Postman para validar que el backend funcione 
 - Consultar turnos por paciente
 - Cancelar turnos
 
-# ORGANIZACION DE LAS VISTAS
+# Organización de las vistas
 
 ![Imagen de WhatsApp 2025-06-08 a las 19 56 54_3422273b](https://github.com/user-attachments/assets/41e87e84-26e0-4e37-a5fc-d13c549135e4)
 ![Imagen de WhatsApp 2025-06-08 a las 19 57 03_790b3b66](https://github.com/user-attachments/assets/453259f3-c603-45c4-ad0e-a89a3de5d1c8)
