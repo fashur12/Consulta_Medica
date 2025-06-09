@@ -7,7 +7,7 @@
 - Autenticación: JWT
 - Validación de datos: Joi
 - Herramientas de testing de API: Postman
-- Base de datos: SQLite3 (la del repositorio original)
+- Base de datos: SQLite3 
 
 # 🧪 Pruebas en Postman
 Probamos las rutas principales con Postman para validar que el backend funcione correctamente:
@@ -35,7 +35,7 @@ nmp install
 3. Iniciar el proyecto
 
 ```js
-gfhg
+npm run dev
 ```
 
 # ENDPOINTS
