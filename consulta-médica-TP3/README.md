@@ -92,7 +92,9 @@ npm install dotenv
 ```ruby
 npm run dev
 ```
-5.Extenciones opcionales del visual
+
+5.Extenciones opcionales (VsCode)
+
 ```ruby
 -sqlite
 -sqlite viewer
