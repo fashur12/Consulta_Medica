@@ -92,4 +92,12 @@ npm install dotenv
 ```ruby
 npm run dev
 ```
+5.Opcionales
+```ruby
+-sqlite
+-sqlite viewer
+-express
+-ejs
+-nodejs
+```
 
