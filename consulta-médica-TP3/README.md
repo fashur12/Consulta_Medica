@@ -35,7 +35,7 @@ nmp install
 3. Iniciar el proyecto
 
 ```js
-npm run dev
+gfhg
 ```
 
 # ENDPOINTS
